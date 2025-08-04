@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mapule👩🏽‍💻</h1>
-<h3 align="center">Transforming ideas into reality with code</h3>
+<h3 align="center">😊Transforming ideas into reality with code🔥</h3>
 
 🎓 Computer Science Student | 💡 Aspiring Developer<br/>
 💻 Learning Java, Python & Front-End<br/>
